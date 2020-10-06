@@ -1,1 +1,2 @@
-# board
+# board 
+게시판
